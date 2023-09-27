@@ -1,7 +1,6 @@
 # Sudoku Solver
 
-This project is an interactive Sudoku game that allows players to solve Sudoku puzzles using an intuitive graphical interface. It is built using the `pygame` library and offers both puzzle-solving and puzzle-generation features.
-
+This project is an interactive Sudoku game that enables players to solve Sudoku puzzles through an intuitive graphical interface. It's constructed using the pygame library and primarily employs a backtracking algorithm for puzzle-solving, while also providing puzzle-generation capabilities.
 ## Features
 
 - **Interactive Sudoku Grid**: Players can click on individual cells to select them and input numbers.
