@@ -1,0 +1,13 @@
+Sudoku Rules / GAME CONTROLS:
+1-9, Keypad 1-9 - Enter the respective number.
+DELETE - Clear the board.
+SPACE - Solve the board automatically.
+ENTER - Place the selected number.
+If it's the correct spot, it will be a success; otherwise, you'll get a strike.
+If the board is complete, the game will end.
+
+RULES:
+1. Fill each row, column, and 3x3 box with the numbers from 1 to 9 without repetition.
+2. Use the keyboard numbers or keypad numbers to place a number.
+3. If you place a wrong number, you get a strike.
+4. The game ends once the board is complete.
